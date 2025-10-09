@@ -26,7 +26,7 @@ I love learning new technologies, solving problems, and sharing knowledge.
 Currently working on backend projects like [CRUD Basic](https://github.com/art1-code/crud-basic).
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com/art1-code)
+[LinkedIn](https://www.linkedin.com/in/arthur1silva1) · [GitHub](https://github.com/art1-code)
 
 ---
 
