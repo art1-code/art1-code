@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student**  
 💻 Passionate about programming, technology and building real-world projects.  
-🚀 Currently exploring **Node.js**, **Express**, and **APIs** — with an eye on full-stack development.
+🚀 Currently exploring **Node.js**, **Express**, and **APIs** — with an eye on back-end development.
 
 ---
 
