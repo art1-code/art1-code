@@ -8,7 +8,7 @@
 
 ### 🧠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, C  
-- **Backend:** Node.js, Express, MySQL  
+- **Backend:** Node.js, Express, MySQL, PostgreSQL
 - **Frontend:** HTML, CSS, React (learning)  
 - **Tools:** Git, VS Code, Postman, Docker  
 
