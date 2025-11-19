@@ -2,12 +2,12 @@
 
 🎓 **Computer Science Student**  
 💻 Passionate about programming, technology and building real-world projects.  
-🚀 Currently exploring **Node.js**, **Express**, and **APIs** — with an eye on back-end development.
+🚀 Currently exploring **Golang**, **Node.js**, **Express**, and **APIs** — with an eye on back-end development.
 
 ---
 
 ### 🧠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, C  
+- **Languages:** JavaScript, TypeScript, Go, C  
 - **Backend:** Node.js, Express, MySQL, PostgreSQL
 - **Frontend:** HTML, CSS, React (learning)  
 - **Tools:** Git, VS Code, Postman, Docker  
